@@ -3,7 +3,5 @@ layout: layouts/base.njk
 title: Levent Ali - Group Engineering Manager
 description: An Eleventy starter with modern tooling, Tailwind CSS and PurgeCSS
 ---
-<div class="max-w-screen-md px-8 sm:px-6 md:px-4 lg:px-2 xl:px-0 mt-6 md:mt-16 mx-auto">
-<main>
-<h1>I'm Levent Ali</h1>
-</main>
+
+# I'm Levent Ali md

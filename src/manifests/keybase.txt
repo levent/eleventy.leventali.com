@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lebreeze
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.leventali.com
+  * I am lebreeze (https://keybase.io/lebreeze) on keybase.
+  * I have a public key ASCqAv5rT-4aq_o7bycdqU21eL5TBkNhk3UiXyIZQdhl9Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d3a3862c699b21605b29a80bfa30682a6580ba85af7a8ae8e3cd728099c409210a",
+      "host": "keybase.io",
+      "kid": "0120aa02fe6b4fee1aabfa3b6f271da94db578be530643619375225f221941d865f40a",
+      "uid": "019837e1bf451bb33d642246a59a3e19",
+      "username": "lebreeze"
+    },
+    "merkle_root": {
+      "ctime": 1531130232,
+      "hash": "42ae97b91f6b69a401e0365214a330d50e5ccc0929795180971668c17270ae9494ea29de5a1a41e5f756fa88e56a613d1f7fe256149ddc26ec4b4905e89c4a24",
+      "hash_meta": "2cb88ed39c73175163e7981a281d1541dce9bf486bafdecdfaab906f0f7f2c8c",
+      "seqno": 3218793
+    },
+    "service": {
+      "entropy": "8mpcl5pCi6RJXrRyAQfN2T7h",
+      "hostname": "www.leventali.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1531130249,
+  "expire_in": 504576000,
+  "prev": "4e99ea66c11a17a761c2486e727493515b90e2f4cf0582b8fb71b71b5deb2254",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqgL+a0/uGqv6O28nHalNtXi+UwZDYZN1Il8iGUHYZfQKp3BheWxvYWTESpcCGsQgTpnqZsEaF6dhwkhucnSTUVuQ4vTPBYK4+3G3G13rIlTEIO+sETsIs2fMYWyyzBtKV2uFy6KLLLrbRSJubA44nuBvAgHCo3NpZ8RAo0HXWOx6WIkb2G+hfBwIrr8KgTLEuq3ZfmggGd7ZWzq2uwPxUnCr+Oahb8R4S5ORE3w/0PgJHRDh8FQTOyHTAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBfFoneBAkzlqgtk2ln0D+rwCIk5dBHymo4bD+zoyDkHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lebreeze
+
+==================================================================
