@@ -1,14 +1,11 @@
 @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 h1,
 h2,
 h3 {
   @apply font-bold;
-}
-h1 {
-  @apply text-3xl;
-}
-h2 {
-  @apply text-2xl;
 }
 a {
   @apply text-pink-700 underline;
@@ -23,6 +20,7 @@ img,
 p {
   @apply mb-4 text-lg;
 }
+
 @screen md {
   h1 {
     @apply text-6xl;
@@ -31,6 +29,9 @@ p {
     @apply text-3xl;
   }
 }
-
-@tailwind components;
-@tailwind utilities;
+h1 {
+  @apply text-3xl;
+}
+h2 {
+  @apply text-2xl;
+}
