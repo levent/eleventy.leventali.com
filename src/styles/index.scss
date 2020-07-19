@@ -1,11 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=optional");
-
 @tailwind base;
-
-html {
-  @apply font-body;
-}
-
 h1,
 h2,
 h3 {
@@ -16,9 +9,6 @@ h1 {
 }
 h2 {
   @apply text-2xl;
-}
-h3 {
-  @apply text-lg;
 }
 a {
   @apply text-pink-700 underline;
@@ -31,7 +21,7 @@ h2,
 h3,
 img,
 p {
-  @apply mb-4;
+  @apply mb-4 text-lg;
 }
 @screen md {
   h1 {
