@@ -1,8 +1,7 @@
 module.exports = {
-  purge: ['./components/**/*.js', './pages/**/*.js'],
+  purge: false,
   theme: {
     fontFamily: {
-      display: ['Gilroy', 'sans-serif'],
       body: ['Poppins', 'sans-serif'],
     },
     extend: {},
