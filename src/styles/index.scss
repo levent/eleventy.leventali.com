@@ -41,9 +41,6 @@ p {
     @apply text-3xl;
   }
 }
-img {
-  @apply max-w-sm;
-}
+
 @tailwind components;
 @tailwind utilities;
-
