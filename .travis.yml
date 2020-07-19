@@ -5,7 +5,7 @@ install:
   # install eleventy and any dependencies inside ./package.json
   - npm install
 script:
-  # run Tai11s build pipeline
+  # run build pipeline
   - npm run build
   # create .nojekyll files
   # We are telling GitHub to not process this branch using jekyll

@@ -1,7 +1,7 @@
 {
-  "name": "tai11s",
+  "name": "eleventy.leventali.com",
   "version": "1.0.0",
-  "description": "An 11ty starter with TailwindCSS, PostCSS, PurgeCSS and other modern tools",
+  "description": "Levent Ali's website built on 11ty",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Levent Ali - Group Engineering Manager
-description: An Eleventy starter with modern tooling, Tailwind CSS and PurgeCSS
+description: Levent Ali is an experienced leader with over a decade delivering internet products and building cross-functional teams."
 ---
 
 # I'm Levent Ali
