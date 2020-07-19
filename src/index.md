@@ -8,7 +8,7 @@ description: Levent Ali is an experienced leader with over a decade delivering i
 
 ## I'm the Group Engineering Manager for the Automated Support Group at [Intercom](https://www.intercom.com/).
 
-![My family](https://cdn.sanity.io/images/a50wfija/production/a931312fb0a455d05f59cee39449480231b2c90f-968x968.jpg?w=250&h=250 "My family")
+![My family](https://cdn.sanity.io/images/a50wfija/production/a931312fb0a455d05f59cee39449480231b2c90f-968x968.jpg?w=750&h=750 "My family")
 
 I'm a technology leader with over a decade of experience delivering internet products and building highly productive, engaged, cross-functional teams.
 
