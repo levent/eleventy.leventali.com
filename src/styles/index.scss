@@ -21,7 +21,10 @@ h3 {
   @apply text-lg;
 }
 a {
-  @apply text-pink-500 underline;
+  @apply text-pink-700 underline;
+  &:hover {
+    @apply text-pink-900 underline;
+  }
 }
 h1,
 h2,
