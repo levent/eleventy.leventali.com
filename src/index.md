@@ -14,8 +14,8 @@ I'm a technology leader with over a decade of experience delivering internet pro
 
 I love making the complicated simple by getting talented people together and getting out of their way.
 
-My teams look after our Operator Bots and Help Center Articles products.
+My teams look after our [Operator Bots](https://www.intercom.com/operator) and [Help Center Articles](https://www.intercom.com/articles) products.
 
-Previously Xively, Goodlord, Osper, LogMeIn and Umbrellium.
+Previously [Xively](https://xively.com/), [Goodlord](https://www.goodlord.co/), [Osper](https://osper.com/), [LogMeIn](https://secure.logmein.com/home/en) and [Umbrellium](http://umbrellium.co.uk/).
 
-You can find me on Twitter, Instagram and LinkedIn.
+You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze) and [LinkedIn](https://www.linkedin.com/in/leventali/).
