@@ -5,7 +5,7 @@
 h1,
 h2,
 h3 {
-  @apply font-bold;
+  @apply font-serif font-semibold;
 }
 a {
   @apply text-pink-700 underline;
@@ -18,9 +18,18 @@ h2,
 h3,
 img,
 p {
-  @apply mb-4 text-lg;
+  @apply mb-4;
+}
+p {
+  @apply text-lg;
 }
 
+h1 {
+  @apply text-3xl;
+}
+h2 {
+  @apply text-2xl;
+}
 @screen md {
   h1 {
     @apply text-6xl;
@@ -28,10 +37,4 @@ p {
   h2 {
     @apply text-3xl;
   }
-}
-h1 {
-  @apply text-3xl;
-}
-h2 {
-  @apply text-2xl;
 }
