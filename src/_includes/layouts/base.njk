@@ -6,10 +6,10 @@
   <meta name="description" content="{{ renderData.description or description or metadata.description }}">
   <meta name="generator" content="Eleventy">
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:creator" content="@lebreeze"/>
-  <meta property="og:url" content="https://www.leventali.com/"/>
+  <meta name="twitter:creator" content="{{ siteData.twitter_creator }}"/>
+  <meta property="og:url" content="{{ siteData.url }}"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:title" content="Levent Ali, Group Engineering Manager at Intercom"/>
+  <meta property="og:title" content="{{ siteData.title }}"/>
   <meta property="og:description" content="{{ renderData.description or description or metadata.description }}"/>
   <meta property="og:locale" content="en_GB"/>
   <meta property="og:site_name" content="Levent Ali"/>
@@ -24,7 +24,7 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="/styles/index.css">
 </head>
 
 <body class="font-sans" id="top" itemscope itemtype="http://schema.org/WebPage">

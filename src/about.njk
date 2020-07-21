@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+title: About me - Levent Ali
+description: Levent Ali is an experienced leader with over a decade delivering internet products and building cross-functional teams."
+---
+
+<h1>About me</h1>
+<img src="https://cdn.sanity.io/images/a50wfija/production/a931312fb0a455d05f59cee39449480231b2c90f-968x968.jpg?w=384&h=384" alt="My family" />
+
+<p>👋 Here's a random bit of context on where I've been and some highlights along the way.</p>
+{% for item in timeline %}
+  <div class="text-lg flex flex-row">
+    <div class="font-bold text-right py-2 pr-4 border-r-2 border-gray-900">{{ item.year }}</div>
+    <div class="text-left py-2 pl-4">
+      {{ item.event }}
+    </div>
+  </div>
+{% endfor %}
+
+<p class="pt-2"><a href="/">Go home</a></p>
