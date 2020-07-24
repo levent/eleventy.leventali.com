@@ -6,6 +6,9 @@ h1,
 h2,
 h3 {
   @apply font-serif font-semibold;
+  a {
+    @apply no-underline;
+  }
 }
 a {
   @apply text-pink-700 underline;
