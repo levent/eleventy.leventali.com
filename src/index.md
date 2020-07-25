@@ -14,6 +14,6 @@ My teams look after our [Operator Bots](https://www.intercom.com/operator) and [
 
 Previously [Xively](https://xively.com/), [Goodlord](https://www.goodlord.co/), [Osper](https://osper.com/), [LogMeIn](https://secure.logmein.com/home/en) and [Umbrellium](http://umbrellium.co.uk/).
 
-You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze) and [LinkedIn](https://www.linkedin.com/in/leventali/).
+You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze), [GitHub](https://github.com/levent) and [LinkedIn](https://www.linkedin.com/in/leventali/).
 
 [About me](/about/)
