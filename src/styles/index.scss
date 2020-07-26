@@ -41,3 +41,9 @@ h2 {
     @apply text-3xl;
   }
 }
+
+.timeline-item {
+  p {
+    @apply mb-0;
+  }
+}
