@@ -16,6 +16,6 @@ Previously [Xively](https://xively.com/), [Goodlord](https://www.goodlord.co/), 
 
 You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze), [GitHub](https://github.com/levent) and [LinkedIn](https://www.linkedin.com/in/leventali/).
 
-I write and maintain [Suite](https://suite.leventali.com), which is a set of personal tools I use for tracking moods and tasks.
+I write and maintain [Suite](https://suite.leventali.com/about), which is a set of personal tools I use for tracking moods and tasks.
 
 [About me](/about/)
