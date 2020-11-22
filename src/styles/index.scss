@@ -20,10 +20,11 @@ h1,
 h2,
 h3,
 img,
+ul,
 p {
   @apply mb-4;
 }
-p {
+p, li {
   @apply text-lg;
 }
 
@@ -38,10 +39,14 @@ h2 {
     @apply text-3xl;
   }
   h2 {
-    @apply text-3xl;
+    @apply text-2xl;
   }
 }
 
 body {
   @apply mb-20;
+}
+
+ul {
+  @apply list-disc list-inside;
 }
