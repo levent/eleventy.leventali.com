@@ -8,15 +8,15 @@ description: Levent Ali is an experienced leader with over a decade delivering i
 
 ## Group Engineering Manager for Automated Support at [Intercom](https://www.intercom.com/).
 
-I'm a technology leader with over a decade of experience delivering internet products and building highly productive, engaged, cross-functional teams.
+I'm a technology leader with almost two decades experience delivering internet products and building highly productive, engaged, cross-functional teams.
 
 I love making the complicated simple by getting talented people together and getting out of their way.
 
 At Intercom a few of the areas where I've had impact:
 
 * Helping establish the London R&D office 
-* Setting up Team Operator, our first chat bot focussed product team
-* Establishing and leading a group of teams focussed on automation
+* Setting up our first chat bot focussed product team
+* Establishing and leading a group of teams around automated support
 * Improving our engineer onboarding process
 * Hiring product managers, directors, and engineers
 * Shipping strategic cross org projects, without burnout and on time
@@ -29,4 +29,4 @@ You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://
 
 I write and maintain [Suite](https://suite.leventali.com/about), which is a set of personal tools I use for tracking moods and tasks.
 
-[About me personally](/about/)
+[About me](/about/)
