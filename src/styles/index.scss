@@ -5,7 +5,7 @@
 h1,
 h2,
 h3 {
-  @apply font-serif font-semibold;
+  @apply font-bold;
   a {
     @apply no-underline;
   }
@@ -21,6 +21,7 @@ h2,
 h3,
 img,
 ul,
+ol,
 p {
   @apply mb-4;
 }
@@ -49,4 +50,8 @@ body {
 
 ul {
   @apply list-disc list-inside;
+}
+
+ol {
+  @apply list-decimal list-inside;
 }

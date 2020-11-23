@@ -29,4 +29,12 @@ You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://
 
 I write and maintain [Suite](https://suite.leventali.com/about), which is a set of personal tools I use for tracking moods and tasks.
 
+{% if collections.posts %}
+## Incomplete thoughts
+{% endif %}
+{% for post in collections.posts %}
+* [{{ post.data.title }}]({{ post.url }})
+{% endfor %}
+
+
 [About me](/about/)
