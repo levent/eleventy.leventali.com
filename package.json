@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ianrose/deventy#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
-    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.1.0",
     "cross-env": "^5.2.0",
     "cssnano": "^4.1.10",
