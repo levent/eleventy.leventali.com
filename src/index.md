@@ -23,7 +23,7 @@ At Intercom a few of the areas where I've had impact:
 
 My teams look after our self-serve solutions, including our [Resolution Bot](https://www.intercom.com/automated-answers), [Custom Bots](https://www.intercom.com/customizable-bots) and [Help Center Articles](https://www.intercom.com/articles) products.
 
-I have previously worked with [Xively](https://xively.com/), [Goodlord](https://www.goodlord.co/), [Osper](https://osper.com/), [LogMeIn](https://secure.logmein.com/home/en) and [Umbrellium](http://umbrellium.co.uk/).
+I have previously worked with [Xively](https://en.wikipedia.org/wiki/Xively), [Goodlord](https://www.goodlord.co/), [Osper](https://osper.com/), [LogMeIn](https://secure.logmein.com/home/en) and [Umbrellium](http://umbrellium.co.uk/).
 
 You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze), [GitHub](https://github.com/levent) and [LinkedIn](https://www.linkedin.com/in/leventali/).
 
