@@ -38,7 +38,7 @@
   "dependencies": {
     "acorn": "^6.4.2",
     "autoprefixer": "^9.8.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
