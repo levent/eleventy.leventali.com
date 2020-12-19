@@ -8,9 +8,9 @@ description: Levent Ali is an experienced leader with over a decade delivering i
 
 ## Group Engineering Manager at [Intercom](https://www.intercom.com/).
 
-I'm a technology leader with almost two decades experience delivering internet products and building highly, engaged, cross-functional teams.
+I get talented people together and get out of their way.
 
-I love making the complicated simple by getting talented people together and getting out of their way.
+I'm a technology leader with almost two decades experience delivering internet products and building highly, engaged, cross-functional teams.
 
 At Intercom a few of the areas where I've had impact:
 

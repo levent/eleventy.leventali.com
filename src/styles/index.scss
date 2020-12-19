@@ -5,15 +5,15 @@
 h1,
 h2,
 h3 {
-  @apply font-serif font-semibold;
+  @apply font-semibold;
   a {
     @apply no-underline;
   }
 }
 a {
-  @apply text-pink-700 underline;
+  @apply text-pink-400 underline;
   &:hover {
-    @apply text-pink-900 underline;
+    @apply text-pink-600 underline;
   }
 }
 h1,
@@ -25,7 +25,7 @@ p {
   @apply mb-4;
 }
 p, li {
-  @apply text-lg;
+  @apply text-xl;
 }
 
 h1 {
@@ -44,7 +44,7 @@ h2 {
 }
 
 body {
-  @apply mb-20;
+  @apply mb-20 bg-black text-white;
 }
 
 ul {
