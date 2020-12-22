@@ -10,7 +10,7 @@ description: Levent Ali is an experienced leader with over a decade delivering i
 
 I get talented people together and get out of their way.
 
-I'm a technology leader with almost two decades experience delivering internet products and building highly, engaged, cross-functional teams.
+I'm a technology leader with almost two decades experience delivering internet products and building highly engaged cross-functional teams.
 
 At Intercom a few of the areas where I've had impact:
 
