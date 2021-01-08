@@ -28,5 +28,6 @@ I have previously worked with [Xively](https://en.wikipedia.org/wiki/Xively), [G
 You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze), [GitHub](https://github.com/levent) and [LinkedIn](https://www.linkedin.com/in/leventali/).
 
 I write and maintain [Suite](https://suite.leventali.com/about), which is a set of personal tools I use for managing my life.
+I'm also building an anonymised writing network called [Rote](https://www.rote.app). It has potential to be filled with terrible content, but I will shut it down if so.
 
 [About me](/about/)
