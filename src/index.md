@@ -31,5 +31,6 @@ Some of my side projects:
 * [Rote](https://www.rote.app) is an anonymised writing network
 * [Take it off](https://takeitoff.leventali.com) is a simple calculator I use to prompt my ICs to take vacation
 * [Suite](https://suite.leventali.com/about) is a set of personal tools I use for managing my life
+* [poor.vc](https://poor.vc/) is a domain for sale
 
 [About me](/about/)
