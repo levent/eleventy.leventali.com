@@ -27,7 +27,9 @@ I have previously worked with [Xively](https://en.wikipedia.org/wiki/Xively), [G
 
 You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze), [GitHub](https://github.com/levent) and [LinkedIn](https://www.linkedin.com/in/leventali/).
 
-I write and maintain [Suite](https://suite.leventali.com/about), which is a set of personal tools I use for managing my life.
-I'm also building an anonymised writing network called [Rote](https://www.rote.app).
+Some of my side projects:
+* [Rote](https://www.rote.app) is an anonymised writing network
+* [Take it off](https://takeitoff.leventali.com) is a simple calculator I use to prompt my ICs to take vacation
+* [Suite](https://suite.leventali.com/about) is a set of personal tools I use for managing my life
 
 [About me](/about/)
