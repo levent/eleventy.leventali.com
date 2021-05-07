@@ -40,6 +40,6 @@
   "dependencies": {
     "acorn": "^8.0.4",
     "node-sass": "^5.0.0",
-    "postcss": "^8.2.4"
+    "postcss": "^8.2.14"
   }
 }
