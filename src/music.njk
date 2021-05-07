@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+title: Music - Levent Ali
+description: Levent Ali is an experienced leader with over a decade delivering internet products and building cross-functional teams."
+---
+
+<h1>Music <a href="/">Levent Ali</a></h2>
+<p>Here are the albums I have on rotation right now.</p>
+{% for item in albums | sort(attribute='artist') %}
+  <article>
+    <div class="sm:text-lg">
+      <p>
+        <span class="font-bold">{{ item.artist }}</span> - {{ item.title }} (<time datetime="{{ item.year }}">{{ item.year }}</time>) {% if item.all_time %}⭐️{% endif %}
+      </p>
+  </article>
+{% endfor %}
+
+<p class="pt-4">⭐️ These albums are always on rotation.</p>
+
+<p class="pt-4"><a href="/">Go home</a></p>
