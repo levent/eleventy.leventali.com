@@ -1,0 +1,40 @@
+[
+  {
+    "year": 2000,
+    "artist": "D'Angelo",
+    "title": "Voodoo",
+    "notes": "",
+    "all_time": true
+  },
+  {
+    "year": 2006,
+    "artist": "J Dilla",
+    "title": "Donuts",
+    "notes": "",
+    "all_time": true
+  },
+  {
+    "year": 2020,
+    "artist": "Stove God Cooks",
+    "title": "Reasonable Drought",
+    "notes": ""
+  },
+  {
+    "year": 2020,
+    "artist": "Thundercat",
+    "title": "It Is What It Is",
+    "notes": ""
+  },
+  {
+    "year": 2021,
+    "artist": "Gentleman's Dub Club",
+    "title": "Down to Earth",
+    "notes": ""
+  },
+  {
+    "year": 2021,
+    "artist": "Floating Points",
+    "title": "Promises",
+    "notes": ""
+  }
+]

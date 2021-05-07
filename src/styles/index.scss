@@ -24,9 +24,6 @@ ul,
 p {
   @apply mb-4;
 }
-p, li {
-  @apply text-xl;
-}
 
 h1 {
   @apply text-2xl;
@@ -40,6 +37,10 @@ h2 {
   }
   h2 {
     @apply text-2xl;
+  }
+  p,
+  li {
+    @apply text-xl;
   }
 }
 
