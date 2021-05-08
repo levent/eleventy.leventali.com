@@ -22,6 +22,22 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="/styles/index.css">
+
+		<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+		<script>
+		(function(f, a, t, h, o, m){
+			a[h]=a[h]||function(){
+				(a[h].q=a[h].q||[]).push(arguments)
+			};
+			o=f.createElement('script'),
+			m=f.getElementsByTagName('script')[0];
+			o.async=1; o.src=t; o.id='fathom-script';
+			m.parentNode.insertBefore(o,m)
+		})(document, window, '//fast-shelf-35108.herokuapp.com/tracker.js', 'fathom');
+		fathom('set', 'siteId', 'CJFIE');
+		fathom('trackPageview');
+		</script>
+		<!-- / Fathom -->
   </head>
   <body class="font-sans text-black dark:text-white bg-white dark:bg-black" id="top" itemscope itemtype="http://schema.org/WebPage">
     <div class="max-w-screen-md px-8 sm:px-6 md:px-4 lg:px-2 xl:px-0 mt-6 md:mt-16 mx-auto">
