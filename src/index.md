@@ -2,13 +2,16 @@
 layout: layouts/base.njk
 title: Levent Ali - Group Engineering Manager
 description: Levent Ali is an experienced leader with over a decade delivering internet products and building cross-functional teams."
+eleventyNavigation:
+  key: Home
+  order: 1
 ---
 
 # I'm Levent Ali.
 
 ## Group Engineering Manager at [Intercom](https://www.intercom.com/).
 
-I get talented people together and get out of their way.
+I get talented people working together.
 
 I'm a technology leader with almost two decades experience delivering internet products and building highly engaged cross-functional teams.
 
