@@ -1,46 +1,20 @@
 [
   {
-    "year": 2000,
-    "artist": "D'Angelo",
-    "title": "Voodoo",
-    "notes": "",
-    "all_time": true
-  },
-  {
-    "year": 2014,
-    "artist": "D'Angelo",
-    "title": "Black Messiah",
-    "notes": ""
-  },
-  {
-    "year": 2006,
-    "artist": "J Dilla",
-    "title": "Donuts",
-    "notes": "",
-    "all_time": true
-  },
-  {
-    "year": 2020,
-    "artist": "Stove God Cooks",
-    "title": "Reasonable Drought",
-    "notes": ""
-  },
-  {
-    "year": 2020,
-    "artist": "Thundercat",
-    "title": "It Is What It Is",
+    "year": 2021,
+    "artist": "Wolf Alice",
+    "title": "Blue Weekend",
     "notes": ""
   },
   {
     "year": 2021,
-    "artist": "Gentleman's Dub Club",
-    "title": "Down to Earth",
+    "artist": "Mach-Hommy",
+    "title": "Pray For Haiti",
     "notes": ""
   },
   {
     "year": 2021,
-    "artist": "Floating Points",
-    "title": "Promises",
+    "artist": "Tyler, the Creator",
+    "title": "Call Me If You Get Lost",
     "notes": ""
   }
 ]
