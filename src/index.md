@@ -26,5 +26,3 @@ My teams work on our automated support solutions, including [Resolution Bot](htt
 I have previously worked with [Xively](https://en.wikipedia.org/wiki/Xively), [Goodlord](https://www.goodlord.co/), [Osper](https://osper.com/), [LogMeIn](https://secure.logmein.com/home/en) and [Umbrellium](http://umbrellium.co.uk/).
 
 You can find me on [Twitter](https://twitter.com/lebreeze), [Instagram](https://www.instagram.com/lebreeze), [GitHub](https://github.com/levent) and [LinkedIn](https://www.linkedin.com/in/leventali/).
-
-[About me](/about/) [What I'm listening to](/music/)
